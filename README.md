@@ -12,6 +12,9 @@ Shell topics:
 6.  Exit Status
 7.  Inputs
 8.  Quetes
+9.  Redirectors
+10.  SED Editor
+11. 
 
 
 
